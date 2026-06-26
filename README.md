@@ -1,32 +1,46 @@
-# Hi 👋, I'm [Your Name]
+<h1 align="center">Hi 👋, I'm Shakya</h1>
 
-### 💻 [Your Role / Headline, e.g., Passionate IT Student | Exploring Web Development 🚀]
-
----
-
-## ⏳ About Me
-
-- 🧠 I’m currently learning **[Topic, e.g., Artificial Intelligence]**
-- 📫 How to reach me: **[your.email@example.com]**
-- ⚡ Fun fact: **[Your fun fact here]**
+<h3 align="center">
+💻 HNDIT Graduate | Software Developer (Trainee) | Web Development Enthusiast 🚀
+</h3>
 
 ---
 
-## 🔗 Connect with me:
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL_HERE)
+## 👨‍💻 About Me
+- 🎓 Completed HNDIT (Higher National Diploma in Information Technology)
+- 💼 Trainee Software Developer (Tangalle Zonal as Software Development Training)
+- 🌱 Passionate about building real-world web applications
+- 💡 Interested in Full Stack Development & Problem Solving
+- ⚡ Always learning new technologies and improving skills
 
 ---
 
-## 🛠️ Languages and Tools:
+## 🛠️ Tech Stack
+I have experience working with:
 
-<p align="left">
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
-</p>
+- 🌐 HTML, CSS, JavaScript
+- 🎨 Bootstrap
+- ⚙️ PHP
+- 🗄️ MySQL
+- 🧠 Basic Full Stack Web Development
+
+---
+
+## 📫 Contact Me
+- 📧 Email: **theekshishakya@gmail.com**
+- 💼 LinkedIn:  
+  [Shakya LinkedIn Profile](https://www.linkedin.com/in/theekshi-shakya-50b58b290)
+
+---
+
+## 🚀 Goals
+- Build professional-level web applications
+- Improve full stack development skills
+- Gain experience in real-world software projects
+- Grow as a Software Developer
+- Build professional life
+
+---
+
+
+<h3 align="center">Thanks for visiting my profile 🙌</h3>
